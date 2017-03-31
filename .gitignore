@@ -1,0 +1,9 @@
+# Editor files
+.*.sw?
+
+# Compilation output
+*.annot
+*.cm[ioxat]
+*.cmx[as]
+*.a
+*.o
